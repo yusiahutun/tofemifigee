@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tofemifigee.pages.dev/sitemap.xml
